@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Kimyou]
+## Hi there 👋 I'm __Kimyou__
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
 <br>  
