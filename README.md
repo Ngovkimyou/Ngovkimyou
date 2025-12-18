@@ -44,13 +44,12 @@
 
 ### 📈 GitHub Stats
 <!-- You can remove this section if you don't want stats -->
-<div align="center" width="800">
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ngovkimyou&show_icons=true&theme=aura#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ngovkimyou&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true"
+    width="800"
+  />
+</p>
 
 ---
 
