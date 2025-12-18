@@ -31,14 +31,14 @@
 ---
 
 ### 📌 Featured Projects
-- **[Project Name]**  
-  Short description
+- **[Julvry](https://ngovkimyou.github.io/Web1-FinalProject---Julvry/)**  
+  A hands-on group project building a marketing service website.
 
-- **[Project Name]**  
-  Short description.
+- **[MusiCall](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+  A mini Spotify-style music simulation project with API integration and client-driven requirements
 
-- **[Project Name]**  
-  Short description.
+- **[Laundry App](https://github.com/Ngovkimyou/Laundry-App)**  
+  A to-do laundry app featuring weather forecast API integration and notification support.
 
 ---
 
@@ -54,11 +54,11 @@
 ---
 
 ### 📫 Contact
-- Email: [email]
+- Email: [kimyou8881@gmail.com](mailto:kimyou8881@gmail.com)
 - LinkedIn: [link]
-- Portfolio: [link if any]
+- Portfolio: [link]
 
 ---
+⭐ *Thanks for visiting my GitHub profile!* <p align="right">🌑🌒🌓🌔🌕</p>
 
-⭐ *Thanks for visiting my GitHub profile!*
 
