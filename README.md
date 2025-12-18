@@ -68,4 +68,11 @@ I have worked on both public and private projects and become better undertanding
 - Portfolio: [link]
 
 ---
+
+### 🥸 Get to Know Me? 
+- Coffee and tea is my paradise
+- My side quest: I like learning traditional culture and music, geography, discover the unknown, question the possibility, observe human's behavior and critical thoughts
+- A little fun fact - whenever my favorite game releases a new version I become a lazy man, taking a day off to enjoy the storytelling.
+
+---  
 ⭐ *Thanks for visiting my GitHub profile!* <p align="right">🌑🌒🌓🌔🌕</p>
