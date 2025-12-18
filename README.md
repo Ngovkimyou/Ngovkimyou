@@ -46,7 +46,8 @@
 <!-- You can remove this section if you don't want stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true#gh-dark-mode-only"
+    src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=buefy&show_icons=true#gh-light-mode-only"
     width="800"
   />
 </p>
