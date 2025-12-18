@@ -47,10 +47,14 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true#gh-dark-mode-only"
+    width="800"
+  />
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=buefy&show_icons=true#gh-light-mode-only"
     width="800"
   />
 </p>
+
 ---
 
 ### 📫 Contact
