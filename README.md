@@ -1,4 +1,6 @@
-## Hi👋 I'm __Kimyou__!
+<p align="right">◯ ☽ ◑ ● ◐ ❨ ◯</p>
+
+## Hi👋 I'm __Kimyou__! 
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
 **➪ I love pursuing unlimited knowledge, exploring things that have caught my attention, having strong curiosity behavior, crafting ideas and deploy, seeking to grow everyday.**
@@ -31,6 +33,7 @@
 ---
 
 ### 📌 Featured Projects
+I have worked on both public and private projects and become better undertanding of Git environment and teamwork flow. projects related to web development field: 
 - **[Julvry](https://ngovkimyou.github.io/Web1-FinalProject---Julvry/)**  
   A hands-on group project building a marketing service website.
 
