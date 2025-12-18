@@ -1,6 +1,7 @@
-## Hi there 👋 I'm __Kimyou__
+## Hi👋 I'm __Kimyou__!
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
+**➪ I love pursuing unlimited knowledge, exploring things that have caught my attention, having strong curiosity behavior, crafting ideas and deploy, seeking to grow everyday.**
 <br>  
 💻 Interested in: 
 - Web Development
@@ -17,7 +18,8 @@
 - React 
 - Java 
 - Adobe Photoshop 
-- Next.js 
+- Next.js
+- GSAP
 
 ---
 
@@ -42,8 +44,12 @@
 
 ### 📈 GitHub Stats
 <!-- You can remove this section if you don't want stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngovkimyou&show_icons=true)
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true"
+    width="800"
+  />
+</p>
 ---
 
 ### 📫 Contact
