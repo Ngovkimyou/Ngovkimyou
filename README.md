@@ -35,13 +35,13 @@
 ### 📌 Featured Projects
 I have worked on both public and private projects and become better undertanding of Git environment and teamwork flow. projects related to web development field: 
 
-- **[Space and Time](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+- **[Space and Time](https://space-and-time-social-media.vercel.app/)**  
   A next-generation social media platform designed with a modern interface and equipped with a wide range of features for user convenience. The developers of this project were given the freedom to explore ideas and express their creativity while maintaining performance optimization across different devices.
   
-- **[Smart Translator](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+- **[Smart Translator](https://nlp-smart-translator.vercel.app/)**  
   A smart translation application that allows users to choose different translation styles, such as casual, polite, and business expressions. This project focuses not only on translation accuracy, but also on delivering local nuances, modern vocabulary, and cultural context to help bridge communication gaps.
   
-- **[Quiz Game](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+- **[Quiz Game](https://quiz-game-group2.netlify.app/)**  
   An English-Japanese sentence quiz game where players must answer as many questions correctly as possible within a limited time to achieve a high score. Scores will be displayed on a leaderboard ranked by player performance.
 
 - **[Julvry](https://ngovkimyou.github.io/Web1-FinalProject---Julvry/)**  
@@ -53,7 +53,7 @@ I have worked on both public and private projects and become better undertanding
 - **[MusiCall](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
   A mini Spotify-style music simulation project with API integration and client-driven requirements
 
-- **[Fancy Login Page](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+- **[Fancy Login Page](https://ngovkimyou.github.io/Login---Fancy-design/)**  
   My very first hands-on experience in web development began with designing a simple user authentication page, making the first stepping stone in my learning journey.
 
 ---
