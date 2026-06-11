@@ -4,7 +4,9 @@
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
 **➪ I love pursuing unlimited knowledge, exploring things that have caught my attention, having strong curiosity behavior, crafting ideas and deploy, seeking to grow everyday.**
+- **[My Portfolio --- The Moon Knows Its Orbit](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
 <br>  
+
 💻 Interested in: 
 - Web Development
 - Software Engineering
@@ -32,14 +34,27 @@
 
 ### 📌 Featured Projects
 I have worked on both public and private projects and become better undertanding of Git environment and teamwork flow. projects related to web development field: 
+
+- **[Space and Time](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+  A next-generation social media platform designed with a modern interface and equipped with a wide range of features for user convenience. The developers of this project were given the freedom to explore ideas and express their creativity while maintaining performance optimization across different devices.
+  
+- **[Smart Translator](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+  A smart translation application that allows users to choose different translation styles, such as casual, polite, and business expressions. This project focuses not only on translation accuracy, but also on delivering local nuances, modern vocabulary, and cultural context to help bridge communication gaps.
+  
+- **[Quiz Game](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+  An English-Japanese sentence quiz game where players must answer as many questions correctly as possible within a limited time to achieve a high score. Scores will be displayed on a leaderboard ranked by player performance.
+
 - **[Julvry](https://ngovkimyou.github.io/Web1-FinalProject---Julvry/)**  
-  A hands-on group project building a marketing service website.
+  This project was my first experience working in a team to develop a jewelry marketing website. It enhanced my collaboration and communication skills while improving my time management and commitment to self-improvement.
+
+- **[WashWise](https://github.com/Ngovkimyou/Laundry-App)**  
+  A Python-based project integrating APIs within a modern technological environment. This project provided hands-on experience with real-world applications and strengthened my knowledge over practical workflows.
 
 - **[MusiCall](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
   A mini Spotify-style music simulation project with API integration and client-driven requirements
 
-- **[Laundry App](https://github.com/Ngovkimyou/Laundry-App)**  
-  A to-do laundry app featuring weather forecast API integration and notification support.
+- **[Fancy Login Page](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+  My very first hands-on experience in web development began with designing a simple user authentication page, making the first stepping stone in my learning journey.
 
 ---
 
