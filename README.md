@@ -79,7 +79,6 @@ I have worked on both public and private projects and become better undertanding
 
 ### 📫 Contact
 - Email: [kimyou8881@gmail.com](mailto:kimyou8881@gmail.com)
-- LinkedIn: [link]
-- Portfolio: [link]
+
 ---  
 ⭐ *Thanks for visiting my GitHub profile!* <p align="right">🌑🌒🌓🌔🌕</p>
