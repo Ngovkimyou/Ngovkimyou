@@ -4,7 +4,7 @@
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
 **➪ I love pursuing unlimited knowledge, exploring things that have caught my attention, having strong curiosity behavior, crafting ideas and deploy, seeking to grow everyday.**
-- **[My Portfolio --- The Moon Knows Its Orbit](https://github.com/Ngovkimyou/Spotify-MusiCall)**  
+- **[My Portfolio --- The Moon Knows Its Orbit](https://ngovkimyou.github.io/Moon---portfolio/))**  
 <br>  
 
 💻 Interested in: 
