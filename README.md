@@ -35,8 +35,14 @@
 ### 📌 Featured Projects
 I have worked on both public and private projects and become better undertanding of Git environment and teamwork flow. projects related to web development field: 
 
-- **[Space and Time](https://space-and-time-social-media.vercel.app/)**  
+- **[Space and Time ☪ អវកាល​ ☪ ​時空](https://space-and-time-social-media.vercel.app/)**  
   A next-generation social media platform designed with a modern interface and equipped with a wide range of features for user convenience. The developers of this project were given the freedom to explore ideas and express their creativity while maintaining performance optimization across different devices.
+
+- **[Khmer Transliteration Keyboard ☪ ប្រព័ន្ធវាយអកសរខ្មរតាមអកសរឡាតាំង](https://romanized-khmer-transliteration-keyboard.vercel.app/)**  
+  A Romanized Khmer-to-Khmer script input system that converts Khmer words typed using Latin letters into proper Khmer script. A hybrid of rule-based and dictionary based system for candidate generation, model ranking, and manual label data. The project has successfully integrated into Window IME prototype.
+  
+- **[ToDo App](https://to-do-app-comic-theme.vercel.app/)**  
+  A task management app that helps users efficiently track task progress, accompanied by a calendar feature. The design is inspired by a comic style, the app makes completed tasks light up with green checkmarks, creating a satisfying sense of progress and motivating users to finish more — bringing to-do lists to life.
   
 - **[Smart Translator](https://nlp-smart-translator.vercel.app/)**  
   A smart translation application that allows users to choose different translation styles, such as casual, polite, and business expressions. This project focuses not only on translation accuracy, but also on delivering local nuances, modern vocabulary, and cultural context to help bridge communication gaps.
