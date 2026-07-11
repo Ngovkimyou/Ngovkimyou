@@ -35,10 +35,10 @@
 ### 📌 Featured Projects
 I have worked on both public and private projects and become better undertanding of Git environment and teamwork flow. projects related to web development field: 
 
-- **[Space and Time ☪ អវកាល​ ☪ ​時空](https://space-and-time-social-media.vercel.app/)**  
+- **[Space and Time ⚝ អវកាល​ ⚝ ​時空](https://space-and-time-social-media.vercel.app/)**  
   A next-generation social media platform designed with a modern interface and equipped with a wide range of features for user convenience. The developers of this project were given the freedom to explore ideas and express their creativity while maintaining performance optimization across different devices.
 
-- **[Khmer Transliteration Keyboard ☪ ប្រព័ន្ធវាយអកសរខ្មរតាមអកសរឡាតាំង](https://romanized-khmer-transliteration-keyboard.vercel.app/)**  
+- **[Khmer Transliteration Keyboard ⚝ ប្រព័ន្ធវាយអកសរខ្មរតាមអកសរឡាតាំង](https://romanized-khmer-transliteration-keyboard.vercel.app/)**  
   A Romanized Khmer-to-Khmer script input system that converts Khmer words typed using Latin letters into proper Khmer script. A hybrid of rule-based and dictionary based system for candidate generation, model ranking, and manual label data. The project has successfully integrated into Window IME prototype.
   
 - **[ToDo App](https://to-do-app-comic-theme.vercel.app/)**  
