@@ -47,7 +47,7 @@ I have worked on both public and private projects and become better undertanding
 - **[Smart Translator](https://nlp-smart-translator.vercel.app/)**  
   A smart translation application that allows users to choose different translation styles, such as casual, polite, and business expressions. This project focuses not only on translation accuracy, but also on delivering local nuances, modern vocabulary, and cultural context to help bridge communication gaps.
   
-- **[Quiz Game](https://quiz-game-group2.netlify.app/)**  
+- **[Quiz Game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚝ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 日本語クイズ](https://quiz-game-group2.netlify.app/)**  
   An English-Japanese sentence quiz game where players must answer as many questions correctly as possible within a limited time to achieve a high score. Scores will be displayed on a leaderboard ranked by player performance.
 
 - **[Julvry](https://ngovkimyou.github.io/Web1-FinalProject---Julvry/)**  
