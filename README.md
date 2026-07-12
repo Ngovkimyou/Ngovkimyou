@@ -68,7 +68,7 @@ I have worked on both public and private projects and become better undertanding
 <!-- You can remove this section if you don't want stats -->
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true) 
+  ![Anurag's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=Ngovkimyou&theme=aura&show_icons=true) 
   
 </div>
 
