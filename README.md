@@ -1,6 +1,6 @@
 <p align="right">◯ ☽ ◑ ● ◐ ❨ ◯</p>
 
-## Hi👋 I'm __Kimyou__! 
+## Hi👋 I'm __Kimyoo__! 
 
 🎓 **A student at American University of Phnom Penh — AUPP, major in Software Development.**  
 **➪ I love pursuing unlimited knowledge, exploring things that have caught my attention, having strong curiosity behavior, crafting ideas and deploy, seeking to grow everyday.**
