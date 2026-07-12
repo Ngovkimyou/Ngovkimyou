@@ -68,7 +68,7 @@ I have worked on both public and private projects and become better undertanding
 <!-- You can remove this section if you don't want stats -->
 <div>
   
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ngovkimyou)](https://github.com/stats-organization/github-stats-extended) 
+  [[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ngovkimyou)](https://github.com/stats-organization/github-stats-extended) ](https://github-stats-extended.vercel.app/api?username=Ngovkimyou&show_icons=true&include_all_commits=true&theme=aura)
   
 </div>
 
