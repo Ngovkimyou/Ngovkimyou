@@ -76,7 +76,8 @@ I have worked on both public and private projects and become better undertanding
 
 <div align="right">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ngovkimyou&theme=neon&hide_border=false)<br/>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ <br/>
   
 </div>
 
