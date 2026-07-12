@@ -76,7 +76,7 @@ I have worked on both public and private projects and become better undertanding
 
 <div align="right">
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Ngovkimyou&theme=neon)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Ngovkimyou&theme=youtube-dark)](https://git.io/streak-stats)
  <br/>
   
 </div>
