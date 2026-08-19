@@ -62,6 +62,12 @@ I have worked on both public and private projects and become better undertanding
 - **[Fancy Login Page](https://ngovkimyou.github.io/Login---Fancy-design/)**  
   My very first hands-on experience in web development began with designing a simple user authentication page, making the first stepping stone in my learning journey.
 
+### 📖 Experiences
+- **Businden** (Private)
+  A Japanese funeral service, worked as a voluntary 
+
+- **Food Impact** (Private)
+  A Japanese invoice system service, worked as an internship
 ---
 
 ### 📈 GitHub Stats
